@@ -39,6 +39,13 @@ input {
 
 }
 
+.header {
+  font-size: 32px;
+  font-weight: 900;
+}
+
+
+
 .footer {
   background: #eeeeee;
 }
